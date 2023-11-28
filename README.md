@@ -1,2 +1,1 @@
 # lincoln-collaboration
-# lincoln-collaboration
